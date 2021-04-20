@@ -1,8 +1,4 @@
 <?php      
-include('session.php');
-?>
-
-<?php      
 /* begin our session */
 session_start();
 ?>
